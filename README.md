@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash Maurya
-- 🌱 Currently learning DSA in java
+- 🌱 Currently learning DSA in c++
 - 💞️ Looking to collaborate with big companies
 - 📫 Reach me through www.linkedin.com/in/akash-mauryax
 
